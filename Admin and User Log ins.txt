@@ -1,0 +1,9 @@
+ADMIN
+USERNAME : admin
+PASSWORD : admin
+
+USER
+username : orlando
+email : orlando@gmail.com
+phone number:0712345678
+password : test123
